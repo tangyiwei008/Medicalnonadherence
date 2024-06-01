@@ -1,0 +1,61 @@
+Accuracy: 0.8866827115924589
+ROC-AUC Score: 0.8748309250592355
+Confusion Matrix:
+[[4233   96]
+ [ 469  188]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.90      0.98      0.94      4329
+           1       0.66      0.29      0.40       657
+
+    accuracy                           0.89      4986
+   macro avg       0.78      0.63      0.67      4986
+weighted avg       0.87      0.89      0.87      4986
+
+ROC-AUC Score: 0.8748309250592355
+Accuracy: 0.8866827115924589
+Confusion Matrix:
+[[4233   96]
+ [ 469  188]]
+Classification Report:
+              precision    recall  f1-score   support
+
+       False       0.90      0.98      0.94      4329
+        True       0.66      0.29      0.40       657
+
+    accuracy                           0.89      4986
+   macro avg       0.78      0.63      0.67      4986
+weighted avg       0.87      0.89      0.87      4986
+
+White Members - Accuracy: 0.8860646599777035, ROC AUC: 0.8754165510186626
+Non-White Members - Accuracy: 0.8922155688622755, ROC AUC: 0.8696155394524959
+Top 10% Positive Predictions ROC-AUC Score: 0.6666611405835545
+Top 10% Positive Predictions Accuracy: 0.6024096385542169
+Top 10% Positive Predictions Confusion Matrix:
+ [[112  96]
+ [102 188]]
+Top 10% Positive Predictions Classification Report:
+               precision    recall  f1-score   support
+
+       False       0.52      0.54      0.53       208
+        True       0.66      0.65      0.66       290
+
+    accuracy                           0.60       498
+   macro avg       0.59      0.59      0.59       498
+weighted avg       0.60      0.60      0.60       498
+
+Results for those who remained adherent then went non-adherent:
+Flip Case Accuracy: 0.8857142857142857, Flip Case AUC: 0.9233333333333333
+Confusion Matrix:
+[[60  0]
+ [ 8  2]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.88      1.00      0.94        60
+           1       1.00      0.20      0.33        10
+
+    accuracy                           0.89        70
+   macro avg       0.94      0.60      0.64        70
+weighted avg       0.90      0.89      0.85        70

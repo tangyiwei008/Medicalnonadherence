@@ -1,0 +1,32 @@
+Feature,Importance
+cln_nums_1311_presence_w1,0.21531044
+cas_nums_151_w52,0.10576348
+cln_nums_1311_w5,0.10016597
+cln_nums_1311_w1,0.09528598
+cln_nums_204_w1,0.08523513
+risk_nums_1060_w15,0.05722735
+risk_nums_1060_w25,0.05283109
+change_in_dc_min_w5,0.035753593
+cas_nums_21_w5,0.03355794
+health_cat_* 04a: Pop Health Cat: Chronic Big 5 - Stable_w1,0.03344543
+cas_nums_10177_w1,0.026023228
+ADMINRTE_CD_SC_w25,0.02175162
+health_cat_* 05a: Pop Health Cat: Chronic Big 5 - At Risk_w1,0.020887457
+cln_nums_204_presence_w1,0.018265858
+change_in_dc_min_w15,0.013431629
+cas_nums_22_w5,0.012379099
+cas_nums_21_w15,0.006433169
+OTC_CD_S_w15,0.0062642293
+change_in_dc_min_w25,0.00624573
+cln_nums_1116_w1,0.006048305
+DAYSSUPP_NBR_min_w5,0.0059476513
+change_in_dc_median_w5,0.005258328
+change_in_dc_mean_w15,0.005222289
+cas_nums_10177_w25,0.0050490424
+cas_nums_31_w25,0.0048773857
+AWPBASE_AMT_median_w52,0.0038704087
+AWPCALC_AMT_max_w5,0.0038254717
+change_in_dc_sum_w5,0.0037205731
+change_in_dc_mean_w5,0.0035359112
+ADMINRTE_CD_SC_w52,0.0033187063
+AWPBASE_AMT_std_w5,0.003067508
